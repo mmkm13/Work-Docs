@@ -29,15 +29,18 @@ Hauptprogramm:
         {
            
             IConfiguration configuration = new ConfigurationBuilder()
-                                                              .SetBasePath(Directory.GetCurrentDirectory())
-                                                              .AddJsonFile("appsettings.json", optional: false)
-                                                              .AddCommandLine(args)
-                                                              .AddEnvironmentVariables()
-                                                              .Build(); // Gibt IConfiguration zurück
+                                                  .SetBasePath(Directory.GetCurrentDirectory())
+                                                  .AddJsonFile("appsettings.json", optional: false)
+                                                  .AddCommandLine(args)
+                                                  .AddEnvironmentVariables()
+                                                  .Build(); // Gibt IConfiguration zurück
                                                               
-    .
-    .
-    .
+            .
+            .
+            .
+        }
+     }
+        
 ```
 Definition von CofnigurationBuilder()
 ```c#
