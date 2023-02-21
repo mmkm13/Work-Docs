@@ -89,3 +89,16 @@ Definition von IConfiguration:
 2. docker run image as container
 3. docker export container image to tarball
 4. wsl import tarball
+
+
+
+
+## Blogposts
+### Rober C. Martin
+
+[if/else/switch](http://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html)
+- Interface Segregation Priciple
+- Acrylic Visitor Pattern
+[Singletons](https://blog.cleancoder.com/uncle-bob/2015/07/01/TheLittleSingleton.html)
+[Response Singletons](http://blog.cleancoder.com/uncle-bob/2015/07/05/PatternPushers.html)
+
