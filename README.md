@@ -84,4 +84,8 @@ Definition von IConfiguration:
     .
     .
 ```
-
+## Docker Container to WSL Container
+1. docker pull image
+2. docker run image as container
+3. docker export container image to tarball
+4. wsl import tarball
