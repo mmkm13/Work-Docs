@@ -94,7 +94,7 @@ Definition von IConfiguration:
 
 
 ## Blogposts
-### Rober C. Martin
+### Robert C. Martin
 
 [if/else/switch](http://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html)
 - Interface Segregation Priciple
