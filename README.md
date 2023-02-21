@@ -97,7 +97,7 @@ Definition von IConfiguration:
 ### Robert C. Martin
 
 [if/else/switch](http://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html)
-- Interface Segregation Priciple
+- [Interface Segregation Priciple](https://reflectoring.io/interface-segregation-principle/)
 - Acrylic Visitor Pattern
 
 [Singletons](https://blog.cleancoder.com/uncle-bob/2015/07/01/TheLittleSingleton.html)
