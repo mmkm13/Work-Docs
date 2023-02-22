@@ -92,14 +92,14 @@ Definition von IConfiguration:
 
 
 ## .NET Schichtenarchitektur Beispiel
-1 Apps
-2 Microservices
-3 ViewModels
-4 DataINtegrators
-5 Converters
-6 DataProviders
-7 DataAccess
-8 DataModels
+1. Apps
+2. Microservices
+3. ViewModels
+4. DataINtegrators
+5. Converters
+6. DataProviders
+7. DataAccess
+8. DataModels
 
 
 
